@@ -1,4 +1,4 @@
-# e-commerceMysql
+# e-commerce
 
 ##🛒 Sistema de E-commerce
 <p>Este projeto representa a estrutura de um banco de dados para um sistema de e-commerce, com foco em gestão de produtos, fornecedores, clientes, pedidos, pagamentos e entregas.</p>
