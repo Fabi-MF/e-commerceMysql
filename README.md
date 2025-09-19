@@ -14,3 +14,10 @@
 
 *Acompanhar o status e rastreio das entregas*
 
+
+
+### :warning:  Atenção:  :warning:
+
+***Os dados apresentados foram gerados por inteligência artificial.***
+
+***São fictícios e utilizados exclusivamente para fins educacionais.***
