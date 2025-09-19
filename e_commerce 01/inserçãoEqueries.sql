@@ -2,6 +2,9 @@
  use e_commerce; -- seleciona o banco de dados  --
  
  -- inserção de dados --
+-- ⚠️ ALERTA: Os dados utilizados neste ambiente foram gerados por inteligência artificial.
+-- Eles são totalmente fictícios, não representam pessoas reais e foram criados apenas para fins de teste, estudo ou demonstração.
+
  INSERT INTO Cliente (PrNome, MNome, Sobrenome, CPF, Endereco) VALUES
 ('Lucas',    'A.', 'Ferreira',     '12345678901', 'Rua das Palmeiras, 123 - São Paulo'),
 ('Mariana',  'B.', 'Oliveira',     '23456789012', 'Av. Brasil, 456 - Rio de Janeiro'),
